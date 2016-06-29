@@ -2,5 +2,5 @@
 	path = Calculib2
 	url = https://github.com/nessotrin/Calculib2.git
 [submodule "Spassus2"]
-	path = Spassus2
+	path = Projects/Spassus2
 	url = https://github.com/nessotrin/Spassus2.git
