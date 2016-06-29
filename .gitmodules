@@ -1,0 +1,3 @@
+[submodule "Calculib2"]
+	path = Calculib2
+	url = https://github.com/nessotrin/Calculib2.git
