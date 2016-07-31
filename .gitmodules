@@ -4,3 +4,6 @@
 [submodule "Spassus2"]
 	path = Projects/Spassus2
 	url = https://github.com/nessotrin/Spassus2.git
+[submodule "Calculib2_server"]
+	path = Calculib2_server
+	url = https://github.com/nessotrin/Calculib2_server.git
