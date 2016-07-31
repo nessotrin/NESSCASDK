@@ -1,2 +1,9 @@
-cd Calculib2
-make
+#!/bin/bash
+fxlib_path="CasioLib/libfx.a"
+if ! [ -e $fxlib_path ]
+then
+    echo "ERROR: CasioLib folder wasn't setup !"
+    echo "Please copy all headers and fxlib.a from casio's SDK into it !"
+else
+    echo "Everything is fine, proceed with \"make\""
+fi
